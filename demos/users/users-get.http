@@ -1,0 +1,11 @@
+GET https://jsonplaceholder.typicode.com/user
+
+###
+GET https://jsonplaceholder.typicode.com/todos/1
+
+
+###
+ GET https://jsonplaceholder.typicode.com/user/1
+
+###
+ GET https://jsonplaceholder.typicode.com/user/5
